@@ -86,6 +86,7 @@ main::before {
   display: grid;
   justify-items: end;
   align-content: center;
+  gap: 20px;
   padding: 40px;
   background-color: #fff;
   text-align: right;
